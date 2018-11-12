@@ -2,6 +2,7 @@ import pytest
 
 
 class TestContact:
+	
 	def test_a(self):
 		assert 1
         
