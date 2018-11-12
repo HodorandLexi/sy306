@@ -1,16 +1,16 @@
-import pytest
+	import pytest
 
 
-class TestContact:
+	class TestContact:
 
-    def test_c1(self):
-        assert 1
+		def test_c1(self):
+			assert 1
 
-    def test_c2(self):
-        assert 1
-	
-	def test_c3(self):
-		assert 0
+		def test_c2(self):
+			assert 1
+		
+		def test_c3(self):
+			assert 0
 
 	
 		
