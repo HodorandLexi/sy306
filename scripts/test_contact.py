@@ -1,9 +1,4 @@
-import time
 import pytest
-
-from base.base_driver import init_driver
-from page.page import Page
-from base.base_analyze import analyze_file
 
 
 class TestContact:
